@@ -1,0 +1,9 @@
+# Site settings
+title: Cuti-Cuti Selangor
+author:
+  name: Bathmavaty
+  email: Bathmavatysiluraja@gmail.com
+description: "Welcome to Selangor"
+
+# Build settings
+remote_theme: jekyll/minima
